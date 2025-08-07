@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack+Iniciante;Open+Source+Enthusiast;Bem-vindo+ao+meu+GitHub!+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Open+Source+Enthusiast;Bem-vindo+ao+meu+GitHub!+%F0%9F%91%80" alt="Typing SVG" />
 </p>
 
 ---
