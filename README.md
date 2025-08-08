@@ -15,11 +15,12 @@
 
 ---
 
-## 💼 Projetos em Desenvolvimento
+## 💼 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🎮 **Persona 5 Royal Fusion Calculator** | Aplicação Web que funciona como a ferramenta definitiva para os fãs do game | JavaScript |
+| 🎮 **Persona 5 Royal Fusion Calculator** | Aplicação Web que funciona como a ferramenta definitiva para os fãs do game | JavaScript HTML CSS |
+| 🎮 **Projeto De Compiladores e Autômatos** | Jogo que aplica os conceitos de compiladores e autômatos de maneira interativa | GameMaker Studio |
 
 
 > Explore mais projetos no [meu repositório](https://github.com/MatheusPagaime17)
@@ -32,6 +33,7 @@
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=yo-yo-games&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
