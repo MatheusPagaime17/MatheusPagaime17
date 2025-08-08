@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação**
-- 👨‍💻 Apaixonado por desenvolvimento de jogos, automações e sistemas inteligentes
-- 🔭 Atualmente focado em projetos com **GameMaker**, **JavaScript** e **Machine Learning**
+- 🎓 Estudante de **Ciência da Computação** na Universidade São Judas Tadeu
+- 👨‍💻 Apaixonado por Programação, Gamificação e sistemas inteligentes
+- 🔭 Atualmente focado em estudar **Machine Learning**, **Ciência de Dados** e **Machine Learning**
 - 🧠 Explorando ideias criativas que misturam tecnologia e assuntos do meu dia a dia!
 
 ---
@@ -33,7 +33,13 @@
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=yo-yo-games&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-D2691E?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
