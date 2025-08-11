@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de **Ciência da Computação** na Universidade São Judas Tadeu
 - 👨‍💻 Apaixonado por Programação, Gamificação e sistemas inteligentes
-- 🔭 Atualmente focado em estudar **Machine Learning**, **Ciência de Dados** e **Machine Learning**
+- 🔭 Atualmente focado em estudar **Machine Learning**, **Ciência de Dados** e **Programação**
 - 🧠 Explorando ideias criativas que misturam tecnologia e assuntos do meu dia a dia!
 
 ---
