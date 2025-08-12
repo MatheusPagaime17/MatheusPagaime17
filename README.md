@@ -21,6 +21,7 @@
 |--------|-----------|-------------|
 | 🎮 **Persona 5 Royal Fusion Calculator** | Aplicação Web que funciona como a ferramenta definitiva para os fãs do game | JavaScript HTML CSS |
 | 🎮 **Projeto De Compiladores e Autômatos** | Jogo que aplica os conceitos de compiladores e autômatos de maneira interativa | GameMaker Studio |
+| 🤖 **Modelo de Análise de Sentimento** | Modelo de Inteligência Artificial que prevê se uma review da Steam é positiva ou negativa | Python, Pandas, Transformers (BERT) |
 
 
 > Explore mais projetos no [meu repositório](https://github.com/MatheusPagaime17)
