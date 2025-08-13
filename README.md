@@ -57,6 +57,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pagaime/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.pagaime05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://matheuspagaime17.github.io/Portfolio-Matheus-Pagaime)
 
 ---
 
