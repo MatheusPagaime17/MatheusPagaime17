@@ -47,8 +47,9 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=MatheusPagaime17&show_icons=true&theme=radical](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusPagaime17&theme=monokai)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusPagaime17&theme=tokyonight)" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPagaime17&layout=compact&theme=radical](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusPagaime17&theme=radical)" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusPagaime17&theme=transparent" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusPagaime17&theme=transparent" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusPagaime17&theme=transparent&exclude={exclude}" />
 </p>
 
 ---
